@@ -1,0 +1,25 @@
+body {
+  background-color: #e6aca1
+}
+
+h1{
+  color: red;
+}
+
+p{
+  color: blue;
+}
+
+div#main {
+  background-color: white
+}
+
+div#title {
+  text-align: center;
+  font-size: 30px;
+  background-color: orange;
+}
+
+div#section {
+  background-color: blue
+}
